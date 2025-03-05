@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/crypto-SOL/BTC-black?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=111111&color=FFCD00" alt="Cryptocurrencies"/>
 </p>
 
-<h2 align="center">🌟 Overview</h2>
+<h2 align="center"><span style="color: #FFCD00;">🌟 Overview</span></h2>
 
 <p align="center">
   SOLPA is a cryptocurrency price tracking and alert application for iOS devices.<br>
@@ -25,7 +25,9 @@
   <a href="https://i.imgur.com/5XjayKW.mp4">Watch Demo Video: SOLPA App in Action</a>
 </p>
 
-<h2 align="center">✨ Features</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=1000&color=FFCD00&background=1A1A1A00&center=true&vCenter=true&random=false&width=500&lines=✨+Features" alt="Features" />
+</p>
 
 <div align="center">
 <table>
@@ -64,7 +66,9 @@
 </table>
 </div>
 
-<h2 align="center">🚀 Coming Soon to App Store</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=1000&color=660099&background=1A1A1A00&center=true&vCenter=true&random=false&width=500&lines=🚀+Coming+Soon+to+App+Store" alt="Coming Soon to App Store" />
+</p>
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFCD00&background=1F1F1F00&center=true&vCenter=true&random=false&width=500&lines=Launching+Soon!;Q2+2025;Join+Our+Beta+Program..." alt="Coming Soon" /></a>
@@ -79,7 +83,9 @@
   <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-Get_Notified_at_Launch-1A1A1A?style=for-the-badge&logo=bell&logoColor=white&labelColor=FFCD00" alt="Get Notified" /></a>
 </p>
 
-<h2 align="center">💡 How to Use</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=1000&color=FFCD00&background=1A1A1A00&center=true&vCenter=true&random=false&width=500&lines=💡+How+to+Use" alt="How to Use" />
+</p>
 
 <div align="center">
 <table>
@@ -115,7 +121,9 @@
 </table>
 </div>
 
-<h2 align="center">🔍 Tech Specs</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=1000&color=FFCD00&background=1A1A1A00&center=true&vCenter=true&random=false&width=500&lines=🔍+Tech+Specs" alt="Tech Specs" />
+</p>
 
 <div align="center">
 <table>
@@ -146,7 +154,9 @@
 </table>
 </div>
 
-<h2 align="center">📈 Future Features</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=1000&color=FFCD00&background=1A1A1A00&center=true&vCenter=true&random=false&width=500&lines=📈+Future+Features" alt="Future Features" />
+</p>
 
 <div align="center">
 <table>
